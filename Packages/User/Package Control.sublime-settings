@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"Missing Palette Commands",
+		"Package Control",
+		"Theme - itg.flat"
+	]
+}
