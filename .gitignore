@@ -1,0 +1,17 @@
+# Ignore everything but .gitignore
+*
+!.gitignore
+
+# Keep Package Control package only
+!Installed Packages
+Installed Packages/*
+!Installed Packages/Package Control.sublime-package
+
+# Keep keyboard shortcuts, settings and builds
+!Packages
+Packages/*
+!Packages/User
+Packages/User/*
+!Packages/User/*.sublime-keymap
+!Packages/User/*.sublime-settings
+!Packages/User/*.sublime-build
