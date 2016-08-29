@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"CMake",
 		"LaTeX-cwl",
 		"LaTeXing",
 		"Missing Palette Commands",
