@@ -1,14 +1,55 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - itg.flat/itg.Monokai.tmTheme",
+	"color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
+	"drag_text": false,
 	"fade_fold_buttons": false,
-	"font_face": "Monaco",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.aux",
+		"*.fdb_latexmk",
+		"*.fls",
+		"*.out",
+		"*.gz",
+		"*.toc"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Roboto Mono for Powerline",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 26,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -16,5 +57,24 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"theme": "itg.flat.dark.sublime-theme"
+	"material_theme_accent_indigo": false,
+	"material_theme_accent_lime": false,
+	"material_theme_accent_orange": false,
+	"material_theme_accent_purple": false,
+	"material_theme_accent_red": false,
+	"material_theme_accent_yellow": false,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": false,
+	"material_theme_disable_fileicons": false,
+	"material_theme_disable_folder_animation": false,
+	"material_theme_disable_tree_indicator": false,
+	"material_theme_small_statusbar": false,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material Solarized Dark.sublime-theme",
+	"word_wrap": true
 }

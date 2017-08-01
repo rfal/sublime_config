@@ -3,4 +3,22 @@
 	{ "keys": ["ctrl+shift+:"], "command": "toggle_comment", "args": { "block": true } },
 
 	{ "keys": ["ctrl+è"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+	{
+	  "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
+	    "auto_save": true,
+	    "delay": 0.0,
+	    "activate": true,
+	    "browsers" : ["chrome"]
+	  }
+	},
+
+	{  
+	    "keys": ["ctrl+shift+<"], "command": "toggle_color_scheme",
+	    "args":
+	    {
+	        "color_scheme_1": "Packages/Color Scheme - Default/Solarized (Light).tmTheme" ,
+	        "color_scheme_2": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme"
+	    }
+	}
 ]

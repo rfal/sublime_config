@@ -6,14 +6,23 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AutomaticFullscreen",
+		"Browser Refresh",
 		"CMake",
+		"CMakeSnippets",
 		"LaTeX-cwl",
 		"LaTeXing",
+		"MarkdownEditing",
+		"Materialize",
+		"Materialize-Appbar",
+		"Materialize-White-Panels",
 		"Missing Palette Commands",
 		"Package Control",
+		"PackageResourceViewer",
+		"RawLineEdit",
 		"rsub",
-		"SFTP",
 		"SideBarEnhancements",
-		"Theme - itg.flat"
+		"Theme - itg.flat",
+		"TrailingSpaces"
 	]
 }
